@@ -1,0 +1,5 @@
+# 🖼 图像生成
+
+当前有很多图像生成AI工具，比较主流有Midjourney和stable diffusion，但是使用这两个工具都有一定成本，Midjourney目前需要订阅之后才能使用，而stable diffusion对计算机硬件要求较高一般也需要投入一定的硬件成本。
+
+最后也会介绍一款比较小众的图片生成工具Leonardo AI，目前Leonardo AI每天提供用户一定数量的限额供用户免费进行图片生成，可以让用户零成本体验AI图片生成。
