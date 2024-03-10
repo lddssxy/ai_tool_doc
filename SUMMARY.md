@@ -11,10 +11,10 @@
 
 ## AI工具手册
 
-* [🖼 图像生成](ai-gong-ju-shou-ce/tu-xiang-sheng-cheng/README.md)
+* [🖼️ 图像生成](ai-gong-ju-shou-ce/tu-xiang-sheng-cheng/README.md)
   * [Midjourney快速入门](ai-gong-ju-shou-ce/tu-xiang-sheng-cheng/midjourney-kuai-su-ru-men.md)
   * [Stable diffusion](ai-gong-ju-shou-ce/tu-xiang-sheng-cheng/stable-diffusion.md)
-  * [免费图像生成工具](ai-gong-ju-shou-ce/tu-xiang-sheng-cheng/mian-fei-tu-xiang-sheng-cheng-gong-ju.md)
+  * [免费图像生成工具Leonardo.AI](ai-gong-ju-shou-ce/tu-xiang-sheng-cheng/mian-fei-tu-xiang-sheng-cheng-gong-ju-leonardo.ai.md)
 * [🤖 对话机器人](ai-gong-ju-shou-ce/dui-hua-ji-qi-ren/README.md)
   * [Claude](ai-gong-ju-shou-ce/dui-hua-ji-qi-ren/claude.md)
   * [Bard](ai-gong-ju-shou-ce/dui-hua-ji-qi-ren/bard.md)
