@@ -10,7 +10,7 @@ description: Plugin
 
 1. **要使用代码解释器，需要先在Setting->Beta features中激活Plugin选项**
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>ChatGPT Settings截图 </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>ChatGPT Settings截图 </p></figcaption></figure>
 
 2. **选择GPT-4模型插件功能**
 

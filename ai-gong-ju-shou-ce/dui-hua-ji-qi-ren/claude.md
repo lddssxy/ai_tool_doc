@@ -1,6 +1,0 @@
----
-description: Claude
----
-
-# Claude
-

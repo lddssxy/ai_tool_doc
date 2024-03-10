@@ -169,7 +169,7 @@ ChatGPT输出：
 
 在[prompthero](https://prompthero.com/midjourney-prompts)中可以找到许多示例图片和其对应的提示如下图。
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>prompthero中图片和用于生成它的提示：<br>a colorful building, in the style of intricate cityscapes, cartoon mis-en-scene, photo-realistic landscapes, cinquecento, orientalism, 32k uhd, nostalgic illustration --ar 101:128 --s 750 --niji 5</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>prompthero中图片和用于生成它的提示：<br>a colorful building, in the style of intricate cityscapes, cartoon mis-en-scene, photo-realistic landscapes, cinquecento, orientalism, 32k uhd, nostalgic illustration --ar 101:128 --s 750 --niji 5</p></figcaption></figure>
 
 #### 如何设置图片参数
 
@@ -177,5 +177,5 @@ ChatGPT输出：
 
 利用如[Midjourney prompt helper](https://prompt.noonshot.com/)这样的工具我们也可以通过点选为我们的Midhourney提示词增加相应的图片参数。
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 

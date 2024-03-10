@@ -10,15 +10,15 @@
 
 1. **要使用代码解释器，需要先在Setting->Beta features中激活Code interpreter选项**
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>ChatGPT Settings截图 </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>ChatGPT Settings截图 </p></figcaption></figure>
 
 2. **在ChatGPT中选择选择模型时，点击GPT-4->Code Interpreter**
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>在ChatGPT中选择Code interpreter </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>在ChatGPT中选择Code interpreter </p></figcaption></figure>
 
 3. **如果需要对文件进行处理，则需要上传文件**
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>上传文件</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>上传文件</p></figcaption></figure>
 
 4. **上传完成后，文件名将显示在输入框之上**
 
