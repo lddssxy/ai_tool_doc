@@ -15,9 +15,9 @@
   * [Midjourney快速入门](ai-gong-ju-shou-ce/tu-xiang-sheng-cheng/midjourney-kuai-su-ru-men.md)
   * [Stable diffusion](ai-gong-ju-shou-ce/tu-xiang-sheng-cheng/stable-diffusion.md)
   * [免费图像生成工具Leonardo.AI](ai-gong-ju-shou-ce/tu-xiang-sheng-cheng/mian-fei-tu-xiang-sheng-cheng-gong-ju.md)
-* [🤖 国产大模型](ai-gong-ju-shou-ce/guo-chan-da-mo-xing/README.md)
-  * [文心一言](ai-gong-ju-shou-ce/guo-chan-da-mo-xing/wen-xin-yi-yan.md)
-  * [讯飞星火](ai-gong-ju-shou-ce/guo-chan-da-mo-xing/xun-fei-xing-huo.md)
+* [🤖 国产大模型](ai-gong-ju-shou-ce/dui-hua-ji-qi-ren/README.md)
+  * [文心一言](ai-gong-ju-shou-ce/dui-hua-ji-qi-ren/claude.md)
+  * [讯飞星火](ai-gong-ju-shou-ce/dui-hua-ji-qi-ren/bingchat.md)
 
 ## AI软件开发指引
 
