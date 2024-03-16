@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📚 ChatGPT资料库](README.md)
+* [📚 AI资料库](README.md)
 
 ## ChatGPT新功能
 
