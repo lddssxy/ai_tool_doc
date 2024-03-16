@@ -16,6 +16,7 @@
     * [文心一言](ai-gong-ju-shou-ce/dui-hua-gong-ju/guo-chan-ying-yong/wen-xin-yi-yan.md)
     * [讯飞星火](ai-gong-ju-shou-ce/dui-hua-gong-ju/guo-chan-ying-yong/xun-fei-xing-huo.md)
   * [海外应用](ai-gong-ju-shou-ce/dui-hua-gong-ju/hai-wai-ying-yong.md)
+* [文字转语音](ai-gong-ju-shou-ce/wen-zi-zhuan-yu-yin.md)
 * [🤖 客服机器人](ai-gong-ju-shou-ce/ke-fu-ji-qi-ren.md)
 * [🖼️ 图像生成](ai-gong-ju-shou-ce/tu-xiang-sheng-cheng/README.md)
   * [Midjourney](ai-gong-ju-shou-ce/tu-xiang-sheng-cheng/midjourney.md)
