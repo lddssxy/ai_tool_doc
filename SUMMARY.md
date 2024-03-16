@@ -11,17 +11,20 @@
 
 ## AI工具手册
 
+* [视频生成](ai-gong-ju-shou-ce/shi-pin-sheng-cheng.md)
 * [🤖 对话工具](ai-gong-ju-shou-ce/dui-hua-gong-ju/README.md)
   * [国产应用](ai-gong-ju-shou-ce/dui-hua-gong-ju/guo-chan-ying-yong/README.md)
     * [文心一言](ai-gong-ju-shou-ce/dui-hua-gong-ju/guo-chan-ying-yong/wen-xin-yi-yan.md)
     * [讯飞星火](ai-gong-ju-shou-ce/dui-hua-gong-ju/guo-chan-ying-yong/xun-fei-xing-huo.md)
   * [海外应用](ai-gong-ju-shou-ce/dui-hua-gong-ju/hai-wai-ying-yong.md)
-* [文字转语音](ai-gong-ju-shou-ce/wen-zi-zhuan-yu-yin.md)
-* [🤖 客服机器人](ai-gong-ju-shou-ce/ke-fu-ji-qi-ren.md)
 * [🖼️ 图像生成](ai-gong-ju-shou-ce/tu-xiang-sheng-cheng/README.md)
   * [Midjourney](ai-gong-ju-shou-ce/tu-xiang-sheng-cheng/midjourney.md)
   * [Stable diffusion](ai-gong-ju-shou-ce/tu-xiang-sheng-cheng/stable-diffusion.md)
   * [Leonardo.AI免费图像生成](ai-gong-ju-shou-ce/tu-xiang-sheng-cheng/leonardo.ai-mian-fei-tu-xiang-sheng-cheng.md)
+* [🎼 音乐生成](ai-gong-ju-shou-ce/yin-le-sheng-cheng.md)
+* [🤖 客服机器人](ai-gong-ju-shou-ce/ke-fu-ji-qi-ren.md)
+* [📥 转换工具](ai-gong-ju-shou-ce/zhuan-huan-gong-ju/README.md)
+  * [文字转语音](ai-gong-ju-shou-ce/zhuan-huan-gong-ju/wen-zi-zhuan-yu-yin.md)
 
 ## AI软件开发指引
 
