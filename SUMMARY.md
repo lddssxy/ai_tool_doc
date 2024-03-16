@@ -11,13 +11,16 @@
 
 ## AI工具手册
 
+* [🤖 对话工具](ai-gong-ju-shou-ce/dui-hua-gong-ju/README.md)
+  * [国产应用](ai-gong-ju-shou-ce/dui-hua-gong-ju/guo-chan-ying-yong/README.md)
+    * [文心一言](ai-gong-ju-shou-ce/dui-hua-gong-ju/guo-chan-ying-yong/wen-xin-yi-yan.md)
+    * [讯飞星火](ai-gong-ju-shou-ce/dui-hua-gong-ju/guo-chan-ying-yong/xun-fei-xing-huo.md)
+  * [海外应用](ai-gong-ju-shou-ce/dui-hua-gong-ju/hai-wai-ying-yong.md)
+* [🤖 客服机器人](ai-gong-ju-shou-ce/ke-fu-ji-qi-ren.md)
 * [🖼️ 图像生成](ai-gong-ju-shou-ce/tu-xiang-sheng-cheng/README.md)
-  * [Midjourney快速入门](ai-gong-ju-shou-ce/tu-xiang-sheng-cheng/midjourney-kuai-su-ru-men.md)
+  * [Midjourney](ai-gong-ju-shou-ce/tu-xiang-sheng-cheng/midjourney.md)
   * [Stable diffusion](ai-gong-ju-shou-ce/tu-xiang-sheng-cheng/stable-diffusion.md)
-  * [免费图像生成工具Leonardo.AI](ai-gong-ju-shou-ce/tu-xiang-sheng-cheng/mian-fei-tu-xiang-sheng-cheng-gong-ju.md)
-* [🤖 国产大模型](ai-gong-ju-shou-ce/dui-hua-ji-qi-ren/README.md)
-  * [文心一言](ai-gong-ju-shou-ce/dui-hua-ji-qi-ren/claude.md)
-  * [讯飞星火](ai-gong-ju-shou-ce/dui-hua-ji-qi-ren/bingchat.md)
+  * [Leonardo.AI免费图像生成](ai-gong-ju-shou-ce/tu-xiang-sheng-cheng/leonardo.ai-mian-fei-tu-xiang-sheng-cheng.md)
 
 ## AI软件开发指引
 

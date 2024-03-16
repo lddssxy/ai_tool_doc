@@ -10,17 +10,17 @@
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>注册账号</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>注册账号</p></figcaption></figure>
 
 2\. 打开登陆页面，填写账号密码或者手机号与短信验证码进行登陆，如图1.13。
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>登陆账号</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>登陆账号</p></figcaption></figure>
 
 3\. 登陆后，进入文心一言交互页面如图1.14，与ChatGPT类似，将提示输入到对话框中即可开始与文心一言进行交互。
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>文心一言交互界面</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>文心一言交互界面</p></figcaption></figure>
 
 ### 使用示例
 
@@ -88,7 +88,7 @@ can u write a fairytale for me？
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>文心一言使用插件流程</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>文心一言使用插件流程</p></figcaption></figure>
 
 示例
 
@@ -96,7 +96,7 @@ can u write a fairytale for me？
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>说图解画示例图片</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>说图解画示例图片</p></figcaption></figure>
 
 整个交互示例如下：
 

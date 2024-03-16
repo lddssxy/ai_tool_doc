@@ -10,11 +10,11 @@
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>登陆注册账号</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>登陆注册账号</p></figcaption></figure>
 
 2\. 点击“SparkDesk”或者“立即使用”进入交互页面，如图1.16。同样是ChatGPT式的交互方式，将提示输入到对话框中即可开始与讯飞星火模型进行交互。&#x20;
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>讯飞星火模型交互页面</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>讯飞星火模型交互页面</p></figcaption></figure>
 
 ## 使用示例
 
@@ -67,7 +67,7 @@ One day……
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>选择插件</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>选择插件</p></figcaption></figure>
 
 ### 示例
 
@@ -77,4 +77,4 @@ One day……
 
 在生成完成之后，星火会生成下载链接和首页预览。如图6.21是生成PPT的其中一页，可以看出生成的PPT质量不错，基本我们稍作修改就可以使用。
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>讯飞星火生成的PPT中介绍安徒生的页面</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>讯飞星火生成的PPT中介绍安徒生的页面</p></figcaption></figure>

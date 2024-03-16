@@ -4,7 +4,7 @@ description: 本站原为《向AI提问的艺术-提示工程入门与应用》�
 
 # 📚 AI资料库
 
-## 本站内容
+## 本站目录
 
 [ChatGPT新功能](chatgpt-xin-gong-neng/chatgpt-xin-gong-neng/)
 
