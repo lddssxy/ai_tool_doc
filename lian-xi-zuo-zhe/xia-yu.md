@@ -9,7 +9,7 @@
 </div>
 
 {% hint style="info" %}
-**简介：系统架构师，老程序员，ChatGPT早期用户，AI爱好者**
+**简介：系统架构师，后端软件开发工程师，ChatGPT早期用户，AI爱好者**
 {% endhint %}
 
 内容问题或有合作意向请发送邮件到：yuxia458@gmail.com
