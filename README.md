@@ -6,11 +6,9 @@ description: 本站原为《向AI提问的艺术-提示工程入门与应用》�
 
 ## 本站目录
 
-[ChatGPT新功能](broken-reference)
-
 [AI工具手册](broken-reference)
 
-[AI软件开发指引（开发中）](broken-reference)
+[AI软件开发指引](broken-reference)
 
 ## 合作邮箱：yuxia458@gmail.com
 
