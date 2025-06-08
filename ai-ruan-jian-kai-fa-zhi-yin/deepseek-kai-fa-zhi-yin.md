@@ -1,27 +1,8 @@
+---
+icon: brain-circuit
+---
+
 # DeepSeek 开发指引
-
-
-
-### 目录
-
-1. [简介](https://chatgpt.com/c/684568a1-c3a8-800e-b400-4e636af5562a?model=o4-mini-high#1-%E7%AE%80%E4%BB%8B)
-2. [前提条件](https://chatgpt.com/c/684568a1-c3a8-800e-b400-4e636af5562a?model=o4-mini-high#2-%E5%89%8D%E6%8F%90%E6%9D%A1%E4%BB%B6)
-3. [认证与配置](https://chatgpt.com/c/684568a1-c3a8-800e-b400-4e636af5562a?model=o4-mini-high#3-%E8%AE%A4%E8%AF%81%E4%B8%8E%E9%85%8D%E7%BD%AE)
-4. [调用对话 API](https://chatgpt.com/c/684568a1-c3a8-800e-b400-4e636af5562a?model=o4-mini-high#4-%E8%B0%83%E7%94%A8%E5%AF%B9%E8%AF%9D-API)
-   * 4.1 参数说明
-   * 4.2 示例：非流式调用
-5. [流式输出](https://chatgpt.com/c/684568a1-c3a8-800e-b400-4e636af5562a?model=o4-mini-high#5-%E6%B5%81%E5%BC%8F%E8%BE%93%E5%87%BA)
-6. [推理模型 (`deepseek-reasoner`)](https://chatgpt.com/c/684568a1-c3a8-800e-b400-4e636af5562a?model=o4-mini-high#6-%E6%8E%A8%E7%90%86%E6%A8%A1%E5%9E%8B-deepseek-reasoner)
-7. [多轮对话](https://chatgpt.com/c/684568a1-c3a8-800e-b400-4e636af5562a?model=o4-mini-high#7-%E5%A4%9A%E8%BD%AE%E5%AF%B9%E8%AF%9D)
-8. [错误处理](https://chatgpt.com/c/684568a1-c3a8-800e-b400-4e636af5562a?model=o4-mini-high#8-%E9%94%99%E8%AF%AF%E5%A4%84%E7%90%86)
-9. [进阶功能一览](https://chatgpt.com/c/684568a1-c3a8-800e-b400-4e636af5562a?model=o4-mini-high#9-%E8%BF%9B%E9%98%B6%E5%8A%9F%E8%83%BD%E4%B8%80%E8%A7%88)
-   * JSON Output
-   * Function Calling
-   * 上下文硬盘缓存
-   * 提示库
-10. [示例汇总](https://chatgpt.com/c/684568a1-c3a8-800e-b400-4e636af5562a?model=o4-mini-high#10-%E7%A4%BA%E4%BE%8B%E6%B1%87%E6%80%BB)
-
-***
 
 ### 1. 简介
 
