@@ -13,6 +13,8 @@
 
 * [🤖 对话工具](ai-gong-ju-shou-ce/dui-hua-gong-ju/README.md)
   * [国产应用](ai-gong-ju-shou-ce/dui-hua-gong-ju/guo-chan-ying-yong/README.md)
+    * [DeepSeek](ai-gong-ju-shou-ce/dui-hua-gong-ju/guo-chan-ying-yong/deepseek.md)
+    * [通义千问](ai-gong-ju-shou-ce/dui-hua-gong-ju/guo-chan-ying-yong/tong-yi-qian-wen.md)
     * [文心一言](ai-gong-ju-shou-ce/dui-hua-gong-ju/guo-chan-ying-yong/wen-xin-yi-yan.md)
     * [讯飞星火](ai-gong-ju-shou-ce/dui-hua-gong-ju/guo-chan-ying-yong/xun-fei-xing-huo.md)
   * [海外应用](ai-gong-ju-shou-ce/dui-hua-gong-ju/hai-wai-ying-yong.md)
@@ -29,6 +31,7 @@
 ## AI软件开发指引
 
 * [DeepSeek 开发指引](ai-ruan-jian-kai-fa-zhi-yin/deepseek-kai-fa-zhi-yin.md)
+* [通义千问Qwen开发简介](ai-ruan-jian-kai-fa-zhi-yin/tong-yi-qian-wen-qwen-kai-fa-jian-jie.md)
 * [🌴 GPT API开发指南](ai-ruan-jian-kai-fa-zhi-yin/gpt-api-kai-fa-zhi-nan.md)
 * [🌵 DALL·E 图像生成开发指南](ai-ruan-jian-kai-fa-zhi-yin/dalle-tu-xiang-sheng-cheng-kai-fa-zhi-nan.md)
 * [🦇 Whisper音频开发指南](ai-ruan-jian-kai-fa-zhi-yin/whisper-yin-pin-kai-fa-zhi-nan.md)
