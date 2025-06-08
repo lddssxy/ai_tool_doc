@@ -2,7 +2,7 @@
 description: 开发中，有需要可以留言作者更新
 ---
 
-# 🦇 Whisper音频开发指南
+# 🦇 Open AI音频开发指南
 
 [官方文档](https://platform.openai.com/docs/guides/text-to-speech)\
 好的，我将为您整理一份适合初学者的 OpenAI 文本转语音（Text-to-Speech）官方开发指南的中文解释指引。内容将包括官方文档中的每个部分的简要介绍、示例代码（使用 Python 和 Java），并在最后提供一个完整的开发实例。\
