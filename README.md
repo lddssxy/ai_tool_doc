@@ -15,7 +15,3 @@ description: 本站原为《向AI提问的艺术-提示工程入门与应用》�
 ## 联系作者
 
 邮箱：yuxia458@gmail.com
-
-微信：
-
-<div align="left"><figure><img src=".gitbook/assets/Screenshot 2024-03-10 at 23.43.29.png" alt="" width="375"><figcaption><p>AI交流群</p></figcaption></figure></div>
