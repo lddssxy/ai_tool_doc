@@ -13,7 +13,6 @@
   * [海外应用](ai-gong-ju-shou-ce/dui-hua-gong-ju/hai-wai-ying-yong.md)
 * [🖼️ 图像生成](ai-gong-ju-shou-ce/tu-xiang-sheng-cheng/README.md)
   * [Midjourney](ai-gong-ju-shou-ce/tu-xiang-sheng-cheng/midjourney.md)
-  * [Stable diffusion](ai-gong-ju-shou-ce/tu-xiang-sheng-cheng/stable-diffusion.md)
   * [Leonardo.AI免费图像生成](ai-gong-ju-shou-ce/tu-xiang-sheng-cheng/leonardo.ai-mian-fei-tu-xiang-sheng-cheng.md)
 * [🎼 音乐生成](ai-gong-ju-shou-ce/yin-le-sheng-cheng.md)
 * [📹 视频生成](ai-gong-ju-shou-ce/shi-pin-sheng-cheng.md)
