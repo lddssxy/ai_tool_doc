@@ -2,7 +2,7 @@
 icon: message-bot
 ---
 
-# 通义千问Qwen开发简介
+# 通义千问Qwen开发指引
 
 ### 通义千问（Qwen）完整使用文档
 
