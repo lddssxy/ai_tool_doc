@@ -28,6 +28,6 @@
 
 <figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>处理后ChatGPT显示处理结果</p></figcaption></figure>
 
-6. 点击_**Show work**_后会显示ChatGPT具体做了哪些工作，ChatGPT首先生成了处理代码，之后执行代码并且将运行结果显示在_**RESULT**_中，最后组织语言后将结果输出。
+6. 点&#x51FB;_**Show work**_&#x540E;会显示ChatGPT具体做了哪些工作，ChatGPT首先生成了处理代码，之后执行代码并且将运行结果显示&#x5728;_**RESULT**_&#x4E2D;，最后组织语言后将结果输出。
 
 <figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>查看ChatGPT生成代码和代码解释器运行结果</p></figcaption></figure>
