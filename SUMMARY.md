@@ -33,7 +33,7 @@
 * [DeepSeek 开发指引](ai-ruan-jian-kai-fa-zhi-yin/deepseek-kai-fa-zhi-yin.md)
 * [通义千问Qwen开发简介](ai-ruan-jian-kai-fa-zhi-yin/tong-yi-qian-wen-qwen-kai-fa-jian-jie.md)
 * [🌴 GPT API开发指南](ai-ruan-jian-kai-fa-zhi-yin/gpt-api-kai-fa-zhi-nan.md)
-* [🌵 DALL·E 图像生成开发指南](ai-ruan-jian-kai-fa-zhi-yin/dalle-tu-xiang-sheng-cheng-kai-fa-zhi-nan.md)
+* [🌵 Open AI图像生成开发指南](ai-ruan-jian-kai-fa-zhi-yin/open-ai-tu-xiang-sheng-cheng-kai-fa-zhi-nan.md)
 * [🦇 Whisper音频开发指南](ai-ruan-jian-kai-fa-zhi-yin/whisper-yin-pin-kai-fa-zhi-nan.md)
 
 ## 联系作者
