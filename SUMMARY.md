@@ -2,13 +2,6 @@
 
 * [📚 AI资料库](README.md)
 
-## ChatGPT新功能
-
-* [🆕 ChatGPT新功能](chatgpt-xin-gong-neng/chatgpt-xin-gong-neng/README.md)
-  * [聊天记录管理](chatgpt-xin-gong-neng/chatgpt-xin-gong-neng/liao-tian-ji-lu-guan-li.md)
-  * [第三方插件（Plugin）](chatgpt-xin-gong-neng/chatgpt-xin-gong-neng/di-san-fang-cha-jian-plugin.md)
-  * [代码解释器（Code interpreter）](chatgpt-xin-gong-neng/chatgpt-xin-gong-neng/dai-ma-jie-shi-qi-code-interpreter.md)
-
 ## AI工具手册
 
 * [🤖 对话工具](ai-gong-ju-shou-ce/dui-hua-gong-ju/README.md)

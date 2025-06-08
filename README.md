@@ -6,7 +6,7 @@ description: 本站原为《向AI提问的艺术-提示工程入门与应用》�
 
 ## 本站目录
 
-[ChatGPT新功能](chatgpt-xin-gong-neng/chatgpt-xin-gong-neng/)
+[ChatGPT新功能](broken-reference)
 
 [AI工具手册](broken-reference)
 
@@ -18,8 +18,4 @@ description: 本站原为《向AI提问的艺术-提示工程入门与应用》�
 
 微信：
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/Screenshot 2024-03-10 at 23.43.29.png" alt="" width="375"><figcaption><p>AI交流群</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/Screenshot 2024-03-10 at 23.43.29.png" alt="" width="375"><figcaption><p>AI交流群</p></figcaption></figure></div>
