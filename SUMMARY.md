@@ -27,7 +27,6 @@
 * [🌵 Open AI图像生成开发指南](ai-ruan-jian-kai-fa-zhi-yin/open-ai-tu-xiang-sheng-cheng-kai-fa-zhi-nan.md)
 * [🦇 Open AI音频开发指南](ai-ruan-jian-kai-fa-zhi-yin/whisper-yin-pin-kai-fa-zhi-nan.md)
 * [DeepSeek 开发指引](ai-ruan-jian-kai-fa-zhi-yin/deepseek-kai-fa-zhi-yin.md)
-* [通义千问Qwen开发指引](ai-ruan-jian-kai-fa-zhi-yin/tong-yi-qian-wen-qwen-kai-fa-jian-jie.md)
 
 ## 联系作者
 
